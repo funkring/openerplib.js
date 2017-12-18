@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Martin Reisenhofer",
+    "email": "dev@funkring.net",
+    "url": "http://www.funkring.net"
+  },
+  "bugs": {
+    "url": "https://github.com/funkring/openerplib.js/issues"
+  },  
+  "description": "A simple json-rpc 2.0 implementation to access odoo webservice",
+  "directories": {},
+  "files": [
+    "openerplib.js"
+  ],
+  "main": "openerplib.js",
+  "maintainers": [
+    {
+      "name": "Martin Reisenhofer",
+      "email": "dev@funkring.net"
+    }
+  ],
+  "name": "openerplib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/funkring/openerplib.js"
+  },
+  "version": "8.0.0"
+}
